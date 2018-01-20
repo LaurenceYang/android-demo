@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-attack-webview-demo/01-attack-webview-demo.iml" filepath="$PROJECT_DIR$/01-attack-webview-demo/01-attack-webview-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-webview-demo/01-webview-demo.iml" filepath="$PROJECT_DIR$/01-webview-demo/01-webview-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-demo.iml" filepath="$PROJECT_DIR$/android-demo.iml" />
+    </modules>
+  </component>
+</project>
